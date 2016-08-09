@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wear Project</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="desc_content">     Android powers hundreds of millions of mobile devices in more than 190 countries around the world. It\'s the largest installed base of any mobile platform and growing fast—every day another million users power up their Android devices for the first time and start looking for apps, games, and other digital content.
+        Android gives you a world-class platform for creating apps and games for Android users everywhere, as well as an open marketplace for distributing to them instantly.
+</string>
+
+    <string name="google_api_key">AIzaSyAU6Efb6RpCt9OvFNS7VNfAxWBCjj7ov9Q</string>
+</resources>
